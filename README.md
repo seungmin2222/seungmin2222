@@ -1,4 +1,4 @@
-### 🙌🏼 Introduction
+## 🙌🏼 Introduction
 
 안녕하세요! 이승민 입니다!<br>
 프론트 개발자로 일한 경험이 있으며, 현재는 공부중입니다!<br><br>
@@ -10,7 +10,7 @@
 
 
 
-### 🗂️ Repository
+## 🗂️ Repository
 
 Team Project <u>[Origami](https://github.com/Origami-5M/Origami)</u>
 > Origami:3D는 아날로그 종이접기를 구현한 종이접기 3D 시뮬레이션 서비스입니다.<br>
