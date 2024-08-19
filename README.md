@@ -13,7 +13,7 @@
 ## 🗂️ Repository
 
 Personal Project <u>[Spwriter](https://github.com/seungmin2222/spwriter-client)</u> 
-> Spwriter 개발자와 디자이너를 위한 고급 이미지 스프라이트 툴로,<br>
+> Spwriter는 개발자와 디자이너를 위한 고급 이미지 스프라이트 툴로,<br>
 > Sprite'와 'Writer'를 결합한 이름에서 알 수 있듯이 단순한 스프라이트 생성을 넘어섭니다.<br>
 > 사용자가 이미지를 자유롭게 조작하고 제어할 수 있는 플랫폼으로,<br>
 > 직관적인 인터페이스와 다양한 기능을 통해 이미지 처리 워크플로우를 최적화하고 작업 효율성을 높여주는 서비스입니다.<br>
