@@ -8,7 +8,7 @@
 이러한 호기심과 노력을 통해 지속적으로 발전하고 있습니다.<br>
 <br>
 [![Notion Badge](https://img.shields.io/badge/Notion-FFC733?style=for-the-badge&logo=Notion&logoColor=black&link=https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)](https://billowy-phalange-718.notion.site/6f58db313f4b4bc0986a83c7bab1ce48?pvs=4)
-[![Static Badge](https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=gmail&logoColor=%23EA4335)](seungminlee2222@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=gmail&logoColor=%23EA4335)](mailto:seungminlee2222@gmail.com)
 
 
 ## 🗂️ Repository
