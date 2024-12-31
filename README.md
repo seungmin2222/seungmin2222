@@ -10,6 +10,8 @@
 [![Notion Badge](https://img.shields.io/badge/Notion-FFC733?style=for-the-badge&logo=Notion&logoColor=black&link=https://zzinlee.notion.site/zzinLee-a2ea10dea2524c739b322993f56cde7d?pvs=4)](https://billowy-phalange-718.notion.site/6f58db313f4b4bc0986a83c7bab1ce48?pvs=4)
 [![Static Badge](https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=gmail&logoColor=%23EA4335)](mailto:seungminlee2222@gmail.com)
 
+### Skills
+![Javascript](https://img.shields.io/badge/Javascript-white?style=flat-square&logo=Javascript&logoColor=ffd53b) ![Typescript](https://img.shields.io/badge/Typescript-white?style=flat-square&logo=Typescript&logoColor=blue) ![Three.js](https://img.shields.io/badge/Three.js-white?&style=flat-square&logo=Three.js&logoColor=black) ![React](https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=skyblue) ![Next](https://img.shields.io/badge/Next-white?style=flat-square&logo=Next.js&logoColor=black)<br>
 
 ## 🗂️ Repository
 
