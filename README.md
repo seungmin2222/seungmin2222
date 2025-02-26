@@ -26,7 +26,7 @@
 
 <br>
 
-<u>[Origami](https://github.com/Origami-5M/Origami)</u>
+<u>[Origami:3D](https://github.com/Origami-5M/Origami)</u>
 > 팀 프로젝트
 >
 > Origami:3D는 아날로그 종이접기를 구현한 종이접기 3D 시뮬레이션 서비스입니다.<br>
