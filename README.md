@@ -11,7 +11,7 @@
 [![Static Badge](https://img.shields.io/badge/Gmail-green?style=for-the-badge&logo=gmail&logoColor=%23EA4335)](mailto:seungminlee2222@gmail.com)
 
 ### Skills
-![Javascript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=Javascript&logoColor=ffd53b) ![Typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=Typescript&logoColor=blue) ![Three.js](https://img.shields.io/badge/Three.js-white?&style=for-the-badge&logo=Three.js&logoColor=black) ![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=skyblue) ![Next](https://img.shields.io/badge/Next-white?style=for-the-badge&logo=Next.js&logoColor=black)<br>
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=skyblue) ![Javascript](https://img.shields.io/badge/Javascript-white?style=for-the-badge&logo=Javascript&logoColor=ffd53b) ![Next](https://img.shields.io/badge/Next-white?style=for-the-badge&logo=Next.js&logoColor=black) ![Typescript](https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=Typescript&logoColor=blue) ![Three.js](https://img.shields.io/badge/Three.js-white?&style=for-the-badge&logo=Three.js&logoColor=black)<br>
 
 ## 🗂️ Repository
 
